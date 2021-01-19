@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is an Angular application, with a basic node server set up. Users may add new Posts, and may send/receive data (posts with Title and Content) to/from the node server.
 
-I developed this parallel to the course on MEAN Stack (https://hyland.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by Maximilian Schwarzmüller
+I developed this parallel to the course on MEAN Stack (https://hyland.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by <a href="https://academind.com/">Maximilian Schwarzmüller</a>
 
 ## To Build
 1. run ```npm install```
