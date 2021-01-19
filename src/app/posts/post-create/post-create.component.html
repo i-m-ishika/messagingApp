@@ -1,0 +1,14 @@
+<h2>Post Create Component</h2>
+
+<mat-card>
+  <form (submit)="onClickSavePost(createPostForm)" #createPostForm="ngForm">
+    <mat-form-field>
+      <input placeholder="Post Title" matInput type="text" name="title" ngModel required>
+    </mat-form-field>
+
+    <mat-form-field>
+      <textarea placeholder="Post Content" matInput rows="6" name="content" ngModel required></textarea><br/>
+    </mat-form-field>
+    <button mat-raised-button color="accent" type="submit">SAVE POST</button>
+  </form>
+</mat-card>
