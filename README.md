@@ -6,7 +6,7 @@ This is an Angular application, with a basic node server set up. Users may add n
 
 I developed this parallel to the course on MEAN Stack (https://hyland.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by <a href="https://academind.com/" target="_blank">Maximilian Schwarzmüller</a>
 
-## To Build
+## To Run
 1. run ```npm install```
 2. run ```ng serve```
 3. run ```npm run start-server``` to start node server
